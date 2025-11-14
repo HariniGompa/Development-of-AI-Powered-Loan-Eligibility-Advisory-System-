@@ -1,0 +1,16 @@
+Flask
+Flask-Cors
+Flask-JWT-Extended
+Flask-SQLAlchemy
+psycopg2-binary
+python-dotenv
+Flask-Migrate
+joblib
+numpy
+pandas
+scikit-learn
+lightgbm
+shap
+SpeechRecognition
+pydub
+gunicorn
