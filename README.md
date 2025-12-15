@@ -8,8 +8,6 @@ This project is a **free-tier version** that replicates cloud-style loan process
 ## Demo📷
 
 
-https://github.com/user-attachments/assets/3bb50548-ca52-4b69-98fb-3b1bd8e47976
-
 
 
 ## 📋 Table of Contents
